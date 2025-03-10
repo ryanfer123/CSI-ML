@@ -78,5 +78,5 @@ accuracy_score(y_test, y_pred)
 
 ---
 
-🔗 **GitHub Repository**: [ryanfer123/signature-forgery-detection](https://github.com/ryanfer123/CSI-ML)
+🔗 **GitHub Repository**: [ryanfer123/CSI-ML](https://github.com/ryanfer123/CSI-ML)
 
