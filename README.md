@@ -75,7 +75,7 @@ accuracy_score(y_test, y_pred)
 
 ## Disclaimer
 - Modify dataset paths in the script if needed.
-
+- NST (Bonus Task) is still under development.
 ---
 
 🔗 **GitHub Repository**: [ryanfer123/CSI-ML](https://github.com/ryanfer123/CSI-ML)
